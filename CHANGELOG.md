@@ -76,7 +76,7 @@ All notable changes to this project will be documented in this file.
 - Add `directive`
 - Add prop `autoUpdate`
 - Add prop `autoDestroy`
-- Add prop `deleteInstanceOnDestroy`
+- Add prop `deleteInstanceOnttroy`
 - Add prop `cleanupStylesOnDestroy` [PR #388](https://github.com/surmon-china/vue-awesome-swiper/pull/388)
 
 **Fixed**
@@ -86,7 +86,7 @@ Loop mode:
 - [#544](https://github.com/surmon-china/vue-awesome-swiper/issues/544)
 - [PR #545](https://github.com/surmon-china/vue-awesome-swiper/pull/545)
 
-destroy:
+Destroy:
 - [PR #593](https://github.com/surmon-china/vue-awesome-swiper/pull/550)
 - [PR #341](https://github.com/surmon-china/vue-awesome-swiper/pull/341)
 - [PR #388](https://github.com/surmon-china/vue-awesome-swiper/pull/388)
