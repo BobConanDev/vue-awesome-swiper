@@ -60,7 +60,7 @@ All notable changes to this project will be documented in this file.
 - Remove vue1 support
 - Remove bower support
 - Upgrade to Swiper5
-- Move Swiper dependencie to `peerDependencies`
+- Move Swiper dependency to `peerDependencies`
 - Replace Swiper instance name to `$swiper`
 - Merge SSR (Directive) file to the lib core
 - Update the component name
@@ -86,7 +86,7 @@ Loop mode:
 - [#544](https://github.com/surmon-china/vue-awesome-swiper/issues/544)
 - [PR #545](https://github.com/surmon-china/vue-awesome-swiper/pull/545)
 
-Destory:
+destroy:
 - [PR #593](https://github.com/surmon-china/vue-awesome-swiper/pull/550)
 - [PR #341](https://github.com/surmon-china/vue-awesome-swiper/pull/341)
 - [PR #388](https://github.com/surmon-china/vue-awesome-swiper/pull/388)
